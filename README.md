@@ -25,7 +25,6 @@ The dataset contains customer-level transactional data, including:
 
 1️ Data Validation & Cleaning (Excel)
 - Loaded raw CSV data into Excel
--   ![Image Alt](excel.png)
 - Checked for missing values, data inconsistencies, and incorrect data types
 - Ensured data quality before analysis
   ![Image Alt](jupyter_notebook_excel.png)
