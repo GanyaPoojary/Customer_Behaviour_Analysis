@@ -185,4 +185,4 @@ GitHub - Version control & portfolio hosting
  🤝 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/v-b-ganya
-- 🐙 GitHub: https://github.com/GanyaPoojary
+- 🔗GitHub: [View Project](https://github.com/GanyaPoojary/Customer_Behaviour_Analysis/)
